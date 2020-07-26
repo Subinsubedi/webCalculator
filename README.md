@@ -1,2 +1,2 @@
 # webCalculator
-tutorial with  https://freshman-calculator.surge.sh/
+tutorial with  https://freshman.tech/calculator/
